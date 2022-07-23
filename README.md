@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erick Fierro</h1>
 <h3 align="center">A passionate about programming</h3>
 
-- 🌱 I’m currently learning **python, java and C#**
-- 💬 Ask me about **python, Java, html, C# and CSS**
+- 🌱 I’m currently learning **python, Java and JavaScript**
+- 💬 Ask me about **python, Java, html, CSS and JavaScript**
 - 📫 How to reach me **stevperdomo2017@gmail.com**
 - ⚡ Fun fact **i am very fun**
 
