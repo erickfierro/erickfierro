@@ -1,6 +1,5 @@
-# 💫 About Me:
-Actualmente estoy trabajando en NTT Data, tengo conocimientos en Java, COBOL, HTML, CSS, SQL, Python y Linux
-
+<h1 align="center">Hi 👋, I'm Erick Fierro</h1>
+<h3 align="center">A passionate about programming</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erickfierr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erickfierr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-stiven-fierro-perdomo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17373041) 
@@ -13,7 +12,4 @@ Actualmente estoy trabajando en NTT Data, tengo conocimientos en Java, COBOL, HT
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfierro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
