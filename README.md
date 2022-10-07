@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Fierro</h1>
 <h3 align="center">A passionate about programming</h3>
 
-## 🌐 Socials:
+## 🌐 Socials networks:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erickfierr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erickfierr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-stiven-fierro-perdomo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17373041) 
 
 # 💻 Tech Stack:
