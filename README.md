@@ -12,6 +12,6 @@
 ![COBOL](https://img.shields.io/badge/cobol-003545.svg?style=for-the-badge&logo=cobol&logoColor=white)
 
 ## Practice Websites:
-[![Code Wars](https://img.shields.io/badge/codewars-1900000.svg?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/erick_fierro)
+[![Code Wars](https://img.shields.io/badge/codewars-19000.svg?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/erick_fierro)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
