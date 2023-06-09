@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erick Fierro</h1>
+# `Erick Fierro`
 <h3 align="center">A Java / Cobol developer from Colombia</h3>
 
 ## 🌐 Socials networks:
