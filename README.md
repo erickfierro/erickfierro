@@ -1,5 +1,5 @@
 # `Erick Fierro`
-I'm a Java / Cobol developer from Colombia
+I'm a BackEnd Developer | Java | COBOL Online/Batch | Python developer from Colombia
 
 ## Socials networks:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/erickfierr/)
