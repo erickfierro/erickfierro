@@ -12,6 +12,5 @@ I'm a BackEnd Developer | Java | COBOL Online/Batch | Python developer from Colo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-stiven-fierro-perdomo)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
