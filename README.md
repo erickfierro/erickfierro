@@ -6,7 +6,7 @@ I'm a BackEnd Developer | Java | COBOL Online/Batch | Python developer from Colo
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfierro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Socials networks:
+## 🌐 Socials networks:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/erickfierr/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/steven_fierr/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-stiven-fierro-perdomo)
