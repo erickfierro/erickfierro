@@ -1,4 +1,4 @@
-# 🚀 `Erick Fierro`
+# `Erick Fierro`
 I'm a BackEnd Developer | Java | COBOL Online/Batch | Python developer from Colombia
 
 ## Socials networks:
