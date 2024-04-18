@@ -1,4 +1,4 @@
-# `Hola 👋, Soy Erick Fierro`
+# `Hi 👋, I'm Erick Fierro`
 I'm a BackEnd Developer | Java | COBOL Online/Batch | Python from Colombia
 
 ## 💻 Tech Stack:
