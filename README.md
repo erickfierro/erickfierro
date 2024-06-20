@@ -6,8 +6,8 @@
 Soy un desarrollador backend con experiencia en COBOL, JCL y DB2. Me apasiona crear soluciones eficientes y mantener un enfoque constante en la mejora continua y la optimización del código.
 
 ## Tech Stack:
-![COBOL]()
-![JCL]()
+![COBOL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=ibmdb2&logoColor=white)
+![JCL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=ibmdb2&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=ibmdb2&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
