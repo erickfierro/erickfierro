@@ -3,7 +3,7 @@
 ### Software Engineer en Banco de Bogotá | Bogotá, Colombia
 
 ## Sobre mí
-Soy un desarrollador backend con experiencia en COBOL, JCL y DB2. Me apasiona crear soluciones eficientes y mantener un enfoque constante en la mejora continua y la optimización del código.
+Soy un desarrollador backend con experiencia en COBOL, JCL y IBM DB2. Me apasiona crear soluciones eficientes y mantener un enfoque constante en la mejora continua y la optimización del código.
 
 ## Tech Stack:
 ![COBOL](https://img.shields.io/badge/COBOL-2C2D72?style=for-the-badge&logo=matrix&logoColor=white)
