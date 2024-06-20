@@ -10,7 +10,7 @@ Soy un desarrollador backend con experiencia en COBOL, JCL y DB2. Me apasiona cr
 ![JCL](https://img.shields.io/badge/JCL-6DB33F?style=for-the-badge&logo=code&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
