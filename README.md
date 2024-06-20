@@ -29,7 +29,6 @@ Soy un desarrollador backend con experiencia en COBOL, JCL y DB2. Me apasiona cr
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickfierro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfierro&layout=compact&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfierro&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfierro&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
