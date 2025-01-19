@@ -45,4 +45,4 @@ Desarrollador de software con más de 2 años de experiencia especializada en el
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Snake
-<img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" animation" / >
+<img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
