@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer in Banco de Bogotá</h3>
 
 ## About me:
-I am a software developer with over 2 years of experience specializing in COBOL (CICS/Batch) program development in IBM mainframe environments, with a strong command of JCL, DB2 databases, and file management (VSAM/Sequential). I am passionate about creating innovative and scalable solutions using a variety of languages and technologies.
+I'm a software developer with over 2 years of experience specializing in COBOL (CICS/Batch) program development in IBM mainframe environments, with a strong command of JCL, DB2 databases, and file management (VSAM/Sequential). I'm passionate about creating innovative and scalable solutions using a variety of languages and technologies.
 
 🧠 I'm currently learning Java, advanced COBOL concepts, and IBM Mainframe.
 
@@ -41,5 +41,5 @@ I am a software developer with over 2 years of experience specializing in COBOL 
 
 <p align=center>
   <b>Let's create something awesome together!</b> <br>
-  <a href="https://www.linkedin.com/in/shaancoding">LinkedIn</a> · <a href="mailto:shaankhan101@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/erick-stiven-fierro-perdomo">LinkedIn</a> · <a href="mailto:fierroperdomoerickstiven@gmail.com">Email</a>
 </p
