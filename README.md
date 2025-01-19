@@ -1,48 +1,41 @@
+<h1 align="center">Hi, I'm Erick Fierro 👋 </h1>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erickfierro.erickfierro&left_color=royalblue&right_color=black"  />
 
-# `Hola 👋 soy Erick Fierro`
+<h3 align="center">Software Engineer in Banco de Bogotá</h3>
 
-### Software Engineer en Banco de Bogotá
+## About me:
+I am a software developer with over 2 years of experience specializing in COBOL (CICS/Batch) program development in IBM mainframe environments, with a strong command of JCL, DB2 databases, and file management (VSAM/Sequential). I am passionate about creating innovative and scalable solutions using a variety of languages and technologies.
 
-## Sobre mí
-Desarrollador de software con más de 2 años de experiencia especializada en el desarrollo de programas COBOL (CICS / Batch) en entornos mainframe, con un sólido dominio de JCL, bases de datos DB2 y arcchivos VSAM / Secuenciales. Me apasiona crear soluciones innovadoras y escalables utilizando una variedad de lenguajes y tecnologías.
+🧠 I'm Currently Learning: Java, advanced COBOL concepts and IBM Mainframe.
 
-## Tech Stack:
+## My Stack:
+- 2+ years of experience with COBOL Batch, z/OS and JCL
+- 1+ years of experience with COBOL CICS, IBM DB2, SQL, Git, VSAM, and Sequential Files
+- ❤️ Java and python
+
+## Languages and Tools:
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo"  />
+
+## My Journey:
+<img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1&custom_title=Estadisticas" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erickfierro&theme=dark&hide_border=true">
+
+##
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/COBOL-2C2D72?logo=ibmdb2&logoColor=white&style=for-the-badge" height="40" alt="ibmdb2 logo"  />
-  <img src="https://img.shields.io/badge/JCL-6DB33F?logo=jcl&logoColor=white&style=for-the-badge" height="40" alt="jcl logo"  />
-  <img src="https://img.shields.io/badge/IBM DB2-0033A0?logo=ibmdb2&logoColor=white&style=for-the-badge" height="40" alt="ibmdb2 logo"  />
+  <img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
 </div>
 
-## Conéctate conmigo:
-<div align="center">
-  <a href="https://linkedin.com/in/erick-stiven-fierro-perdomo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/erickfierr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:fierroperdomoerickstiven@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1&custom_title=Estadisticas" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
+<p align=center>
+  <b>Let's create something awesome together!</b> <br>
+  <a href="https://www.linkedin.com/in/shaancoding">LinkedIn</a> · <a href="mailto:shaankhan101@gmail.com">Email</a>
+</p
