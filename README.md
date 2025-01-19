@@ -6,10 +6,6 @@
 Desarrollador de software con más de 2 años de experiencia especializada en el desarrollo de programas COBOL (CICS / Batch) en entornos mainframe, con un sólido dominio de JCL, bases de datos DB2 y arcchivos VSAM / Secuenciales. Me apasiona crear soluciones innovadoras y escalables utilizando una variedad de lenguajes y tecnologías.
 
 ## Tech Stack:
-![COBOL](https://img.shields.io/badge/COBOL-2C2D72?style=for-the-badge&logo=matrix&logoColor=white)
-![JCL](https://img.shields.io/badge/JCL-6DB33F?style=for-the-badge&logo=code&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM%20DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
