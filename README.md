@@ -25,7 +25,7 @@ Desarrollador de software con más de 2 años de experiencia especializada en el
   <a href="https://linkedin.com/in/erick-stiven-fierro-perdomo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[https://www.instagram.com/steven_fierr/](https://www.instagram.com/erickfierr/)" target="_blank">
+  <a href="https://www.instagram.com/erickfierr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:fierroperdomoerickstiven@gmail.com" target="_blank">
