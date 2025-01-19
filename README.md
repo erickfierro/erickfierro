@@ -33,14 +33,11 @@ Desarrollador de software con más de 2 años de experiencia especializada en el
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfierro&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## Estadisticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1&custom_title=Estadisticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Snake
 <img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
