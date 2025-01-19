@@ -15,15 +15,17 @@ I am a software developer with over 2 years of experience specializing in COBOL 
 - ❤️ Java and python
 
 ## Languages and Tools:
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo"  />
+<div>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo"  />
+</div>
 
 ## My Journey:
 <img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1&custom_title=Estadisticas" height="150" alt="stats graph"  />
