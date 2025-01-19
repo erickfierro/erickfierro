@@ -28,9 +28,11 @@ I am a software developer with over 2 years of experience specializing in COBOL 
 </div>
 
 ## My Journey:
-<img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1&custom_title=Estadisticas" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erickfierro&theme=dark&hide_border=true">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1&custom_title=Estadisticas" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickfierro&theme=dark&hide_border=true">
+</div>
 
 ##
 <div align="center">
