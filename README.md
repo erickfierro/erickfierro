@@ -7,7 +7,7 @@
 ## About me:
 I am a software developer with over 2 years of experience specializing in COBOL (CICS/Batch) program development in IBM mainframe environments, with a strong command of JCL, DB2 databases, and file management (VSAM/Sequential). I am passionate about creating innovative and scalable solutions using a variety of languages and technologies.
 
-🧠 I'm Currently Learning: Java, advanced COBOL concepts and IBM Mainframe.
+🧠 I'm currently learning Java, advanced COBOL concepts, and IBM Mainframe.
 
 ## My Stack:
 - 2+ years of experience with COBOL Batch, z/OS and JCL
