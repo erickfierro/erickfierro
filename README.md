@@ -9,10 +9,6 @@ Desarrollador de software con más de 2 años de experiencia especializada en el
 ![COBOL](https://img.shields.io/badge/COBOL-2C2D72?style=for-the-badge&logo=matrix&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-6DB33F?style=for-the-badge&logo=code&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -23,7 +19,9 @@ Desarrollador de software con más de 2 años de experiencia especializada en el
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://img.shields.io/badge/COBOL-2C2D72?logo=ibmdb2&logoColor=white&style=for-the-badge" height="40" alt="ibmdb2 logo"  />
+  <img src="https://img.shields.io/badge/JCL-6DB33F?logo=jcl&logoColor=white&style=for-the-badge" height="40" alt="jcl logo"  />
+  <img src="https://img.shields.io/badge/IBM DB2-0033A0?logo=ibmdb2&logoColor=white&style=for-the-badge" height="40" alt="ibmdb2 logo"  />
 </div>
 
 ## Conéctate conmigo:
