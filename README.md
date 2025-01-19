@@ -1,6 +1,6 @@
 # `Hola 👋 soy Erick Fierro`
 
-### Software Engineer en Banco de Bogotá | Bogotá, Colombia
+### Software Engineer en Banco de Bogotá
 
 ## Sobre mí
 Soy un desarrollador backend con experiencia en COBOL, JCL y IBM DB2. Me apasiona crear soluciones eficientes y mantener un enfoque constante en la mejora continua y la optimización del código.
