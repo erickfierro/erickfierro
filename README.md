@@ -3,7 +3,7 @@
 ### Software Engineer en Banco de Bogotá
 
 ## Sobre mí
-Desarrollador de software con más de 2 años de experiencia especializada en el desarrollo de programas COBOL (CICS / Batch) en entornos mainframe, con un sólido dominio de JCL y bases de datos DB2. Me apasiona crear soluciones innovadoras y escalables utilizando una variedad de lenguajes y tecnologías.
+Desarrollador de software con más de 2 años de experiencia especializada en el desarrollo de programas COBOL (CICS / Batch) en entornos mainframe, con un sólido dominio de JCL, bases de datos DB2 y arcchivos VSAM / Secuenciales. Me apasiona crear soluciones innovadoras y escalables utilizando una variedad de lenguajes y tecnologías.
 
 ## Tech Stack:
 ![COBOL](https://img.shields.io/badge/COBOL-2C2D72?style=for-the-badge&logo=matrix&logoColor=white)
