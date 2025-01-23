@@ -16,32 +16,32 @@ I'm a software developer with over 2 years of experience specializing in COBOL (
 
 ## Languages and Tools:
 <div>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo"  />
+	<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo"  />
 </div>
 
 ## My Journey:
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph" hspace="10" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=erickfierro&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+<div align="center">
+	<img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=erickfierro&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 </div>
 
 ##
 <div align="center">
-  <img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
+	<img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
 </div>
 
 <p align=center>
-  <b>Let's create something awesome together!</b> <br>
-  <a href="https://www.linkedin.com/in/erick-stiven-fierro-perdomo">LinkedIn</a> · <a href="mailto:fierroperdomoerickstiven@gmail.com">Email</a>
+	<b>Let's create something awesome together!</b> <br>
+	<a href="https://www.linkedin.com/in/erick-stiven-fierro-perdomo">LinkedIn</a> · <a href="mailto:fierroperdomoerickstiven@gmail.com">Email</a>
 </p
