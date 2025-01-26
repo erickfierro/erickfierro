@@ -16,7 +16,7 @@ I'm a software developer with over 2 years of experience specializing in COBOL (
 
 ## Languages and Tools:
 <div>
-	<img src="assets/cobol-icon.png" alt="cobol logo" />
+	<img src="assets/cobol-icon.png" alt="cobol logo" height="49px" />
 	<img width="12" />
 	<img src="assets/ibm-zos-icon.png" alt="ibm-zos logo" />
 	<img width="12" />
