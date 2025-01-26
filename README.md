@@ -17,17 +17,17 @@ I'm a software developer with over 2 years of experience specializing in COBOL (
 ## Languages and Tools:
 <div>
 	<img src="assets/cobol-icon.png" alt="cobol logo" height="49px" />
-	<img width="12" />
+	<img width="10" />
 	<img src="assets/ibm-zos-icon.png" alt="ibm-zos logo" />
-	<img width="12" />
+	<img width="10" />
     <img src="https://skillicons.dev/icons?i=java" alt="java logo" />
-	<img width="12" />
+	<img width="10" />
     <img src="https://skillicons.dev/icons?i=spring" alt="spring logo" />
-	<img width="12" />
+	<img width="10" />
     <img src="https://skillicons.dev/icons?i=py" alt="python logo" />
-	<img width="12" />
+	<img width="10" />
     <img src="https://skillicons.dev/icons?i=git" alt="git logo" />
-	<img width="12" />
+	<img width="10" />
     <img src="https://skillicons.dev/icons?i=github" alt="github logo" />
 </div>
 
