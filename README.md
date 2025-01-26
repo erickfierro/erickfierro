@@ -20,7 +20,7 @@ I'm a software developer with over 2 years of experience specializing in COBOL (
 	<img width="10" />
 	<img src="assets/ibm-zos-icon.png" alt="ibm-zos logo" />
 	<img width="10" />
-	<img src="assets/ibm-db2-icon.png" alt="ibm-db2 logo" />
+	<img src="assets/ibm-db2-icon.png" alt="ibm-db2 logo" height="49px" />
 	<img width="10" />
     <img src="https://skillicons.dev/icons?i=java" alt="java logo" />
 	<img width="10" />
