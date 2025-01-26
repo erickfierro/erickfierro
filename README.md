@@ -15,17 +15,7 @@ I'm a software developer with over 2 years of experience specializing in COBOL (
 - ❤️ Java and python
 
 ## Languages and Tools:
-<div>
-	<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,git,github&theme=light)](https://skillicons.dev)
 
 ## My Journey:
 <div align="center">
