@@ -10,7 +10,7 @@ I'm a software developer with 3 years of experience specializing in COBOL (CICS/
 🧠 I'm currently learning Java, advanced COBOL concepts, and IBM Mainframe.
 
 ## My Stack:
-- 2+ years of experience with COBOL Batch, z/OS and JCL
+- 3 years of experience with COBOL Batch, z/OS and JCL
 - 1+ years of experience with COBOL CICS, IBM DB2, SQL, Git, VSAM, and Sequential Files
 - ❤️ Java and python
 
