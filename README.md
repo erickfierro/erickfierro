@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erick Fierro 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Banco+de+Bogot%C3%A1;COBOL+%7C+CICS+%7C+z%2FOS+%7C+DB2+%7C+JCL;Learning+Java+%26+Spring;Building+reliable+mainframe+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Nuek;COBOL+%7C+CICS+%7C+z%2FOS+%7C+DB2+%7C+JCL;Learning+Java+%26+Spring;Building+reliable+mainframe+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
