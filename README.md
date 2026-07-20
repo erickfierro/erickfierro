@@ -52,7 +52,7 @@ I'm a software developer with **4 years of experience** specializing in **COBOL 
 	<img src="https://github-profile-trophy.vercel.app/?username=erickfierro&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </div>
 
-## 🐍 Contribution Snake
+## Contributions
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
