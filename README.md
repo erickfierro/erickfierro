@@ -37,6 +37,7 @@ I'm a software developer with **4 years of experience** specializing in **COBOL 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!--
 ## 📊 My Journey
 
 <div align="center">
@@ -51,6 +52,7 @@ I'm a software developer with **4 years of experience** specializing in **COBOL 
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=erickfierro&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </div>
+-->
 
 ## Contributions
 
