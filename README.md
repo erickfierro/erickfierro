@@ -1,73 +1,64 @@
 <h1 align="center">Hi, I'm Erick Fierro 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Nuek;COBOL+%7C+CICS+%7C+z%2FOS+%7C+DB2+%7C+JCL;Learning+Java+%26+Spring;Building+reliable+mainframe+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Core+Banking+%26+Mainframe;COBOL+%7C+CICS+%7C+DB2+%7C+z%2FOS+%7C+JCL;Backend+Modernization+with+Java+%26+Spring;Mission-Critical+%26+High-Volume+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erickfierro.erickfierro&left_color=royalblue&right_color=black" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=erickfierro.erickfierro&left_color=royalblue&right_color=black" alt="visitor badge" />
 </p>
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm a software developer with **4 years of experience** specializing in **COBOL (CICS/Batch)** program development in **IBM Mainframe** environments, with strong command of **JCL**, **DB2** databases, and file management (**VSAM**/Sequential). I'm passionate about creating reliable, scalable solutions and bridging traditional mainframe systems with modern technologies.
+Software Engineer with **4+ years of experience** developing, optimizing, and maintaining mission-critical core banking systems on **IBM z/OS Mainframe** architectures. Deeply experienced in high-throughput batch execution and real-time transaction processing with **COBOL**, **CICS**, **JCL**, and **DB2**.
 
-- 🏦 Currently working as a **Software Engineer at Banco de Bogotá**
-- 🧠 Learning **Java**, **Spring**, advanced **COBOL** concepts, and **IBM Mainframe** internals
-- 💬 Ask me about **COBOL**, **CICS**, **z/OS**, **JCL**, and **DB2**
-- ⚡ Fun fact: my code has been running in production longer than some of my coworkers' careers 😄
+Currently bridging core legacy financial engines with modern backend architectures, integrating microservices using **Java** and the **Spring ecosystem**.
 
-## 🧰 My Stack
+- 💼 **Focus:** Core banking, payment systems, mission-critical batch cycles, and legacy modernization.
+- 🧠 **Currently sharpening:** Enterprise patterns in **Java 21**, **Spring Boot**, and RESTful API integrations for hybrid cloud/mainframe architectures.
+- 💬 **Ask me about:** Mainframe internals, **CICS** online transaction processing, **DB2/VSAM** storage optimization, and automated **JCL** workflows.
+- ⚡ **Fun fact:** My code processes transactions while the world sleeps — and has executed in production longer than some frameworks have existed.
 
-**Mainframe**
+---
 
-![COBOL](https://img.shields.io/badge/COBOL-4%20years-1a5fb4?style=for-the-badge)
-![z/OS](https://img.shields.io/badge/z%2FOS-4%20years-1a5fb4?style=for-the-badge)
-![JCL](https://img.shields.io/badge/JCL-4%20years-1a5fb4?style=for-the-badge)
-![CICS](https://img.shields.io/badge/CICS-1%2B%20year-2563eb?style=for-the-badge)
-![DB2](https://img.shields.io/badge/DB2-1%2B%20year-2563eb?style=for-the-badge)
-![VSAM](https://img.shields.io/badge/VSAM-1%2B%20year-2563eb?style=for-the-badge)
+## 🧰 Tech Stack
 
-**Languages & Tools**
+### Core Banking & Mainframe
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM_z%2FOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="z/OS" />
+  <img src="https://img.shields.io/badge/COBOL-1A5FB4?style=for-the-badge&logo=c&logoColor=white" alt="COBOL" />
+  <img src="https://img.shields.io/badge/CICS-2563EB?style=for-the-badge&logo=ibm&logoColor=white" alt="CICS" />
+  <img src="https://img.shields.io/badge/JCL-004482?style=for-the-badge&logo=gnubash&logoColor=white" alt="JCL" />
+  <img src="https://img.shields.io/badge/IBM_DB2-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2" />
+  <img src="https://img.shields.io/badge/VSAM-3B82F6?style=for-the-badge&logo=databricks&logoColor=white" alt="VSAM" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Modern Backend & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<!--
-## 📊 My Journey
+---
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=erickfierro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="165" alt="stats graph" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickfierro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="165" alt="languages graph" />
-</div>
-
-<div align="center">
-	<img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=erickfierro&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats" />
-</div>
+## 📈 Activity & Contributions
 
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=erickfierro&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-</div>
--->
-
-## Contributions
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/erickfierro/erickfierro/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <p align="center">
-	<b>Let's create something awesome together!</b>
+  <b>Let's build reliable, high-performance systems together.</b>
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/erick-stiven-fierro-perdomo">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
+  <a href="https://www.linkedin.com/in/erick-stiven-fierro-perdomo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
